@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata">
+<Predmeti>
+<id>1</id>
+<name>Экономическая Теория</name>
+</Predmeti>
+<Predmeti>
+<id>2</id>
+<name>Математика</name>
+</Predmeti>
+<Predmeti>
+<id>3</id>
+<name>Русский</name>
+</Predmeti>
+<Predmeti>
+<id>4</id>
+<name>Английский</name>
+</Predmeti>
+<Predmeti>
+<id>5</id>
+<name>Физика</name>
+</Predmeti>
+<Predmeti>
+<id>6</id>
+<name>Правоведенье</name>
+</Predmeti>
+</dataroot>

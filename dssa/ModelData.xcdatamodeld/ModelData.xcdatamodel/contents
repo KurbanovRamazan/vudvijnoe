@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="5063" systemVersion="13C64" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="ASAvtori" representedClassName="ASAvtori" parentEntity="ASObject" syncable="YES">
+        <attribute name="atributeIdAvtori" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="atributeNameAvtori" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="ASFakylteti" representedClassName="ASFakylteti" parentEntity="ASObject" syncable="YES">
+        <attribute name="atributeIdFakylteti" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="atributeNameFakylteti" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="ASIzdania" representedClassName="ASIzdania" parentEntity="ASObject" syncable="YES">
+        <attribute name="atributeAvtorIdIzdania" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="atributeDateIzdania" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="atributeFakyltetIdIzdania" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="atributeIdIzdania" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="atributeKyrsIzdania" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="atributeNameIzdania" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="atributePredmetiIdIzdania" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="atributeUrlIzdania" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="ASObject" representedClassName="ASObject" syncable="YES"/>
+    <entity name="ASPredmeti" representedClassName="ASPredmeti" parentEntity="ASObject" syncable="YES">
+        <attribute name="atributeIdPredmeti" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="atributeNamePredmeti" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="ASSpecialnosti" representedClassName="ASSpecialnosti" parentEntity="ASObject" syncable="YES">
+        <attribute name="atributeIdSpecialnosti" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="atributeNameSpecialnosti" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="ASAvtori" positionX="-3915" positionY="-2250" width="128" height="73"/>
+        <element name="ASFakylteti" positionX="-3773" positionY="-2250" width="128" height="73"/>
+        <element name="ASIzdania" positionX="-4059" positionY="-2250" width="128" height="163"/>
+        <element name="ASPredmeti" positionX="-3629" positionY="-2248" width="128" height="73"/>
+        <element name="ASSpecialnosti" positionX="-3474" positionY="-2250" width="128" height="73"/>
+        <element name="ASObject" positionX="-3773" positionY="-2430" width="128" height="45"/>
+    </elements>
+</model>

@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata">
+//1
+<Fakylteti>
+<id>1</id>
+<name1>Прикладная информатика</name1>
+</Fakylteti>
+//2
+<Fakylteti>
+<id>2</id>
+<name1>Прикладная информатика</name1>
+</Fakylteti>
+// 3
+<Fakylteti>
+<id>3</id>
+<name1>Налоговый</name1>
+</Fakylteti>
+//4
+<Fakylteti>
+<id>4</id>
+<name1>Финансово-экономический</name1>
+</Fakylteti>
+<Fakylteti>
+    //5
+<id>5</id>
+<name1>Прикладная информатика</name1>
+</Fakylteti>
+//6
+<Fakylteti>
+    <id>1</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+//7
+<Fakylteti>
+    <id>2</id>
+    <name1>Землеустроительный</name1>
+</Fakylteti>
+// 8
+<Fakylteti>
+    <id>3</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//9
+<Fakylteti>
+    <id>4</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+<Fakylteti>
+    //10
+    <id>5</id>
+    <name1>Налоговый</name1>
+</Fakylteti>
+
+//11
+<Fakylteti>
+    <id>1</id>
+    <name1>Финансово-экономический</name1>
+</Fakylteti>
+//12
+<Fakylteti>
+    <id>2</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+// 13
+<Fakylteti>
+    <id>3</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+//14
+<Fakylteti>
+    <id>4</id>
+    <name1>Землеустроительный</name1>
+</Fakylteti>
+<Fakylteti>
+    //15
+    <id>5</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//16
+<Fakylteti>
+    <id>1</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//17
+<Fakylteti>
+    <id>2</id>
+    <name1>Налоговый</name1>
+</Fakylteti>
+// 18
+<Fakylteti>
+    <id>3</id>
+    <name1>Финансово-экономический</name1>
+</Fakylteti>
+//19
+<Fakylteti>
+    <id>4</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+<Fakylteti>
+    //20
+    <id>5</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+//21
+<Fakylteti>
+    <id>1</id>
+    <name1>Землеустроительный</name1>
+</Fakylteti>
+//22
+<Fakylteti>
+    <id>2</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+// 23
+<Fakylteti>
+    <id>3</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//24
+<Fakylteti>
+    <id>4</id>
+    <name1>Налоговый</name1>
+</Fakylteti>
+<Fakylteti>
+    //25
+    <id>5</id>
+    <name1>Финансово-экономический</name1>
+</Fakylteti>
+//26
+<Fakylteti>
+    <id>1</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//27
+<Fakylteti>
+    <id>2</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+// 28
+<Fakylteti>
+    <id>3</id>
+    <name1>Землеустроительный</name1>
+</Fakylteti>
+//29
+<Fakylteti>
+    <id>4</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+<Fakylteti>
+    //30
+    <id>5</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+
+//31
+<Fakylteti>
+    <id>1</id>
+    <name1>Налоговый</name1>
+</Fakylteti>
+//32
+<Fakylteti>
+    <id>2</id>
+    <name1>Финансово-экономический</name1>
+</Fakylteti>
+// 33
+<Fakylteti>
+    <id>3</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//34
+<Fakylteti>
+    <id>4</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+<Fakylteti>
+    //35
+    <id>5</id>
+    <name1>Землеустроительный</name1>
+</Fakylteti>
+//36
+<Fakylteti>
+    <id>1</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//37
+<Fakylteti>
+    <id>2</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+// 38
+<Fakylteti>
+    <id>3</id>
+    <name1>Налоговый</name1>
+</Fakylteti>
+//39
+<Fakylteti>
+    <id>4</id>
+    <name1>Финансово-экономический</name1>
+</Fakylteti>
+<Fakylteti>
+    //40
+    <id>5</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//41
+<Fakylteti>
+    <id>1</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+//42
+<Fakylteti>
+    <id>2</id>
+    <name1>Землеустроительный</name1>
+</Fakylteti>
+// 43
+<Fakylteti>
+    <id>3</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//44
+<Fakylteti>
+    <id>4</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+<Fakylteti>
+    //45
+    <id>5</id>
+    <name1>Налоговый</name1>
+</Fakylteti>
+//46
+<Fakylteti>
+    <id>1</id>
+    <name1>Финансово-экономический</name1>
+</Fakylteti>
+//47
+<Fakylteti>
+    <id>2</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+// 48
+<Fakylteti>
+    <id>3</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+//49
+<Fakylteti>
+    <id>4</id>
+    <name1>Землеустроительный</name1>
+</Fakylteti>
+<Fakylteti>
+    //50
+    <id>5</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+
+//51
+<Fakylteti>
+    <id>1</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//52
+<Fakylteti>
+    <id>2</id>
+    <name1>Налоговый</name1>
+</Fakylteti>
+// 53
+<Fakylteti>
+    <id>3</id>
+    <name1>Финансово-экономический</name1>
+</Fakylteti>
+//54
+<Fakylteti>
+    <id>4</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+<Fakylteti>
+    //55
+    <id>5</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+//56
+<Fakylteti>
+    <id>1</id>
+    <name1>Землеустроительный</name1>
+</Fakylteti>
+//57
+<Fakylteti>
+    <id>2</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+// 58
+<Fakylteti>
+    <id>3</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//59
+<Fakylteti>
+    <id>4</id>
+    <name1>Налоговый</name1>
+</Fakylteti>
+<Fakylteti>
+    //60
+    <id>5</id>
+    <name1>Финансово-экономический</name1>
+</Fakylteti>
+//61
+<Fakylteti>
+    <id>1</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//62
+<Fakylteti>
+    <id>2</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+// 63
+<Fakylteti>
+    <id>3</id>
+    <name1>Землеустроительный</name1>
+</Fakylteti>
+//64
+<Fakylteti>
+    <id>4</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+<Fakylteti>
+    //65
+    <id>5</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//66
+<Fakylteti>
+    <id>1</id>
+    <name1>Налоговый</name1>
+</Fakylteti>
+//67
+<Fakylteti>
+    <id>2</id>
+    <name1>Финансово-экономический</name1>
+</Fakylteti>
+// 68
+<Fakylteti>
+    <id>3</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//69
+<Fakylteti>
+    <id>4</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+<Fakylteti>
+    //70
+    <id>5</id>
+    <name1>Землеустроительный</name1>
+</Fakylteti>
+
+//71
+<Fakylteti>
+    <id>1</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//72
+<Fakylteti>
+    <id>2</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+// 73
+<Fakylteti>
+    <id>3</id>
+    <name1>Налоговый</name1>
+</Fakylteti>
+//74
+<Fakylteti>
+    <id>4</id>
+    <name1>Финансово-экономический</name1>
+</Fakylteti>
+<Fakylteti>
+    //75
+    <id>5</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//76
+<Fakylteti>
+    <id>1</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+//77
+<Fakylteti>
+    <id>2</id>
+    <name1>Землеустроительный</name1>
+</Fakylteti>
+// 78
+<Fakylteti>
+    <id>3</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//79
+<Fakylteti>
+    <id>4</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+<Fakylteti>
+    //80
+    <id>5</id>
+    <name1>Налоговый</name1>
+</Fakylteti>
+//81
+<Fakylteti>
+    <id>1</id>
+    <name1>Финансово-экономический</name1>
+</Fakylteti>
+//82
+<Fakylteti>
+    <id>2</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+// 83
+<Fakylteti>
+    <id>3</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+//84
+<Fakylteti>
+    <id>4</id>
+    <name1>Землеустроительный</name1>
+</Fakylteti>
+<Fakylteti>
+    //85
+    <id>5</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//86
+<Fakylteti>
+    <id>1</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//87
+<Fakylteti>
+    <id>2</id>
+    <name1>Налоговый</name1>
+</Fakylteti>
+// 88
+<Fakylteti>
+    <id>3</id>
+    <name1>Финансово-экономический</name1>
+</Fakylteti>
+//89
+<Fakylteti>
+    <id>4</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+<Fakylteti>
+    //90
+    <id>5</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+//91
+<Fakylteti>
+    <id>1</id>
+    <name1>Землеустроительный</name1>
+</Fakylteti>
+//92
+<Fakylteti>
+    <id>2</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+// 93
+<Fakylteti>
+    <id>3</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//94
+<Fakylteti>
+    <id>4</id>
+    <name1>Налоговый</name1>
+</Fakylteti>
+<Fakylteti>
+    //95
+    <id>5</id>
+    <name1>Финансово-экономический</name1>
+</Fakylteti>
+//96
+<Fakylteti>
+    <id>1</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//97
+<Fakylteti>
+    <id>2</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+// 98
+<Fakylteti>
+    <id>3</id>
+    <name1>Землеустроительный</name1>
+</Fakylteti>
+//99
+<Fakylteti>
+    <id>4</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+<Fakylteti>
+    //100
+    <id>5</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+
+//101
+<Fakylteti>
+    <id>1</id>
+    <name1>Налоговый</name1>
+</Fakylteti>
+//102
+<Fakylteti>
+    <id>2</id>
+    <name1>Финансово-экономический</name1>
+</Fakylteti>
+// 103
+<Fakylteti>
+    <id>3</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//104
+<Fakylteti>
+    <id>4</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+<Fakylteti>
+    //105
+    <id>5</id>
+    <name1>Землеустроительный</name1>
+</Fakylteti>
+//106
+<Fakylteti>
+    <id>1</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//107
+<Fakylteti>
+    <id>2</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+// 108
+<Fakylteti>
+    <id>3</id>
+    <name1>Налоговый</name1>
+</Fakylteti>
+//109
+<Fakylteti>
+    <id>4</id>
+    <name1>Финансово-экономический</name1>
+</Fakylteti>
+<Fakylteti>
+    //110
+    <id>5</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//111
+<Fakylteti>
+    <id>1</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+//112
+<Fakylteti>
+    <id>2</id>
+    <name1>Землеустроительный</name1>
+</Fakylteti>
+// 113
+<Fakylteti>
+    <id>3</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//114
+<Fakylteti>
+    <id>4</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+<Fakylteti>
+    //115
+    <id>5</id>
+    <name1>Налоговый</name1>
+</Fakylteti>
+//116
+<Fakylteti>
+    <id>1</id>
+    <name1>Финансово-экономический</name1>
+</Fakylteti>
+//117
+<Fakylteti>
+    <id>2</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+// 118
+<Fakylteti>
+    <id>3</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+//119
+<Fakylteti>
+    <id>4</id>
+    <name1>Землеустроительный</name1>
+</Fakylteti>
+<Fakylteti>
+    //120
+    <id>5</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+
+//121
+<Fakylteti>
+    <id>1</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//122
+<Fakylteti>
+    <id>2</id>
+    <name1>Налоговый</name1>
+</Fakylteti>
+// 123
+<Fakylteti>
+    <id>3</id>
+    <name1>Финансово-экономический</name1>
+</Fakylteti>
+//124
+<Fakylteti>
+    <id>4</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+<Fakylteti>
+    //125
+    <id>5</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+//126
+<Fakylteti>
+    <id>1</id>
+    <name1>Землеустроительный</name1>
+</Fakylteti>
+//127
+<Fakylteti>
+    <id>2</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+// 128
+<Fakylteti>
+    <id>3</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//129
+<Fakylteti>
+    <id>4</id>
+    <name1>Налоговый</name1>
+</Fakylteti>
+<Fakylteti>
+    //130
+    <id>5</id>
+    <name1>Финансово-экономический</name1>
+</Fakylteti>
+<Fakylteti>
+    <id>131</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//132
+<Fakylteti>
+    <id>2</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+// 133
+<Fakylteti>
+    <id>3</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+//134
+<Fakylteti>
+    <id>4</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+<Fakylteti>
+    //135
+    <id>5</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//136
+<Fakylteti>
+    <id>1</id>
+    <name1>Налоговый</name1>
+</Fakylteti>
+//137
+<Fakylteti>
+    <id>2</id>
+    <name1>Финансово-экономический</name1>
+</Fakylteti>
+// 138
+<Fakylteti>
+    <id>3</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//139
+<Fakylteti>
+    <id>4</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+<Fakylteti>
+    //140
+    <id>5</id>
+    <name1>Землеустроительный</name1>
+</Fakylteti>
+
+//141
+<Fakylteti>
+    <id>1</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//142
+<Fakylteti>
+    <id>2</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+// 143
+<Fakylteti>
+    <id>3</id>
+    <name1>Налоговый</name1>
+</Fakylteti>
+//144
+<Fakylteti>
+    <id>4</id>
+    <name1>Финансово-экономический</name1>
+</Fakylteti>
+<Fakylteti>
+    //145
+    <id>5</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//146
+<Fakylteti>
+    <id>1</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+//147
+<Fakylteti>
+    <id>2</id>
+    <name1>Землеустроительный</name1>
+</Fakylteti>
+// 148
+<Fakylteti>
+    <id>3</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//149
+<Fakylteti>
+    <id>4</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+<Fakylteti>
+    //150
+    <id>5</id>
+    <name1>Налоговый</name1>
+</Fakylteti>
+//151
+<Fakylteti>
+    <id>1</id>
+    <name1>Финансово-экономический</name1>
+</Fakylteti>
+//152
+<Fakylteti>
+    <id>2</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+// 153
+<Fakylteti>
+    <id>3</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+//154
+<Fakylteti>
+    <id>4</id>
+    <name1>Землеустроительный</name1>
+</Fakylteti>
+<Fakylteti>
+    //155
+    <id>5</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//156
+<Fakylteti>
+    <id>1</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//157
+<Fakylteti>
+    <id>2</id>
+    <name1>Налоговый</name1>
+</Fakylteti>
+// 158
+<Fakylteti>
+    <id>3</id>
+    <name1>Финансово-экономический</name1>
+</Fakylteti>
+//159
+<Fakylteti>
+    <id>4</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+<Fakylteti>
+    //160
+    <id>5</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+
+//161
+<Fakylteti>
+    <id>1</id>
+    <name1>Землеустроительный</name1>
+</Fakylteti>
+//162
+<Fakylteti>
+    <id>2</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+// 163
+<Fakylteti>
+    <id>3</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//164
+<Fakylteti>
+    <id>4</id>
+    <name1>Налоговый</name1>
+</Fakylteti>
+<Fakylteti>
+    //165
+    <id>5</id>
+    <name1>Финансово-экономический</name1>
+</Fakylteti>
+//166
+<Fakylteti>
+    <id>1</id>
+    <name1>Прикладная информатика</name1>
+</Fakylteti>
+//167
+<Fakylteti>
+    <id>2</id>
+    <name1>Юридический</name1>
+</Fakylteti>
+// 168
+<Fakylteti>
+    <id>3</id>
+    <name1>Землеустроительный</name1>
+</Fakylteti>
+
+
+
+</dataroot>

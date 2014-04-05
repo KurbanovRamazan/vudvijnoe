@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata">
+    <Izdania>
+        <id>16</id>
+        <name>Издание 2</name>
+        <avtorId>16</avtorId>
+        <fakyltetId>12</fakyltetId>
+        <specialnostiId>13</specialnostiId>
+        <predmetiId>10</predmetiId>
+        <kyrs>2</kyrs>
+        <date>2011</date>
+        <url>http://lilili.ucoz.ru/simple1.pdf</url>
+    </Izdania>
+    <Izdania>
+        <id>17</id>
+        <name>Издание 3</name>
+        <avtorId>17</avtorId>
+        <fakyltetId>13</fakyltetId>
+        <specialnostiId>14</specialnostiId>
+        <predmetiId>11</predmetiId>
+        <kyrs>3</kyrs>
+        <date>2013</date>
+        <url>http://lilili.ucoz.ru/simple2.pdf</url>
+    </Izdania>
+    <Izdania>
+        <id>18</id>
+        <name>Издание 4</name>
+        <avtorId>15</avtorId>
+        <fakyltetId>13</fakyltetId>
+        <specialnostiId>14</specialnostiId>
+        <predmetiId>10</predmetiId>
+        <kyrs>2</kyrs>
+        <date>2011</date>
+        <url>http://lilili.ucoz.ru/simple3.pdf</url>
+    </Izdania>
+    <Izdania>
+        <id>15</id>
+        <name>Издание 1</name>
+        <avtorId>15</avtorId>
+        <fakyltetId>11</fakyltetId>
+        <specialnostiId>1</specialnostiId>
+        <predmetiId>9</predmetiId>
+        <kyrs>1</kyrs>
+        <date>2012</date>
+        <url>http://lilili.ucoz.ru/simple.pdf</url>
+    </Izdania>
+</dataroot>

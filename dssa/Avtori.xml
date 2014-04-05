@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata">
+    <Avtori>
+        <id>15</id>
+        <name>Автор 1</name>
+    </Avtori>
+    <Avtori>
+        <id>16</id>
+        <name>Автор 2</name>
+    </Avtori>
+    <Avtori>
+        <id>17</id>
+        <name>Автор 3</name>
+    </Avtori>
+</dataroot>

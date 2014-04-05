@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata">
+<Specialnosti>
+<id>1</id>
+<name>Программист</name>
+</Specialnosti>
+<Specialnosti>
+<id>2</id>
+<name>Менеджер</name>
+</Specialnosti>
+<Specialnosti>
+<id>3</id>
+<name>Бухгалтер</name>
+</Specialnosti>
+<Specialnosti>
+<id>4</id>
+<name>Филолог</name>
+</Specialnosti>
+<Specialnosti>
+<id>5</id>
+<name>Экономист</name>
+</Specialnosti>
+</dataroot>
